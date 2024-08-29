@@ -2,7 +2,7 @@
 
 This Python script is part of the Slash Mark Python Internship (Beginner: Task 3). It generates secure, complex passwords based on user specifications. The script ensures that each password contains a mix of numbers, uppercase letters, lowercase letters, and special characters to meet complexity requirements.
 
-### Features:
+## Features:
 
 1. Generate Multiple Passwords: Specify the number of passwords and their lengths.
 2. Complexity Guarantee: Each password contains at least one number, one uppercase letter, one lowercase letter, and one special character.
