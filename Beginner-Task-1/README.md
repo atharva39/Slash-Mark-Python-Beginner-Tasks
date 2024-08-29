@@ -9,7 +9,7 @@ This is a simple command-line to-do list application built in Python as part of 
 4. Remove Task: Remove tasks from the list when no longer needed.
 
 ### Requirements:
-- Python 3.x
+- Python 3.12
 
 ### Usage:
 - Run the script in your Python environment and follow the prompts to manage your tasks!
