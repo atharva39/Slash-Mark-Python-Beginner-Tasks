@@ -2,8 +2,8 @@
 
 ## Beginner Tasks
 
-[Task 1]() : Todo-List
+[Task 1]() : To-do-List 📋
 
-[Task 2]() : Number Guess
+[Task 2]() : Number Guessing 🎮
 
-[Task 3]() : Password Generator
+[Task 3]() : Password Generator 🔐
