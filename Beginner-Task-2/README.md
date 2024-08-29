@@ -9,7 +9,7 @@ This is a fun and interactive number guessing game written in Python as part of 
 4. After winning, you can choose to play again or exit.
 
 ### Requirements:
-- Python 3.x
+- Python 3.12
 
 ### Usage:
 - Simply run the script in your Python environment and follow the prompts!****
