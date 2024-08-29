@@ -1,21 +1,15 @@
-# To-Do List Application Instructions
+# To-Do List Application in Python 📋
 
-1. Display To-Do List:
-   - Enter '1' to display your current to-do list. It will show the tasks and their completion status.
+This is a simple command-line to-do list application built in Python as part of the Slash Mark Python Internship (Basic: Task 1). The application allows users to manage their daily tasks by adding, displaying, marking as completed, and removing tasks from a list.
 
-2. Add a Task:
-   - Enter '2' to add a new task to your to-do list. You'll be prompted to enter the task's name.
+### Features:
+1. Display Tasks: View all tasks in your to-do list, along with their status (Done/Not Done).
+2. Add Task: Easily add new tasks to your to-do list.
+3. Mark Task as Completed: Mark tasks as done once you finish them.
+4. Remove Task: Remove tasks from the list when no longer needed.
 
-3. Mark a Task as Completed:
-   - Enter '3' to mark a task as completed. You'll see the current list of tasks, and you'll be asked to enter the task number you want to mark as completed.
+### Requirements:
+- Python 3.x
 
-4. Remove a Task:
-   - Enter '4' to remove a task from your to-do list. You'll see the current list of tasks and will be prompted to enter the task number you want to remove.
-
-5. Quit:
-   - Enter '5' to exit the application.
-  
-
-Note: Use the provided options by entering the respective numbers to perform the desired action.
-
-Enjoy managing your tasks with this to-do list application! 👍
+### Usage:
+- Run the script in your Python environment and follow the prompts to manage your tasks!
