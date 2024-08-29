@@ -8,10 +8,10 @@ This Python script is part of the Slash Mark Python Internship (Beginner: Task 3
 2. Complexity Guarantee: Each password contains at least one number, one uppercase letter, one lowercase letter, and one special character.
 3. User Input Validation: Ensure that all generated passwords are at least 8 characters long.
 
-### Requirements:
+## Requirements:
 - Python 3.12
 
-### Usage:
+## Usage:
 1. Run the script in your Python environment.
 2. Input the number of passwords you want to generate and their respective lengths.
 3. The script will display the generated passwords, ensuring they meet complexity requirements.
